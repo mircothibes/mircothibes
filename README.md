@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Marcos Thibes and I am a data analyst with a passion for data. I'm currently a junior analyst at DataMind, using Python, Power BI, Excel, and Google Data Studio to collect, organize, and transform data from various sources. I'm also a UNOESC student studying business administration with a major in data.
+My name is Marcos Vinicius Thibes Kemer and I am a data analyst with a passion for data. I'm currently a junior analyst at DataMind, using Python, Power BI, Excel, and Google Data Studio to collect, organize, and transform data from various sources. I'm also a UNOESC student studying business administration with a major in data.
 
 I am always looking for new challenges and opportunities to learn and grow. I am also a team player and always willing to help others.
 
