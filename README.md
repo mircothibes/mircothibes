@@ -12,8 +12,13 @@ Please feel free to contact me if you have any questions or would like to collab
 - 🖥️ **Currently focused, working and studying**
 <div style="display: inline">
 <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  
 <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+
+<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+
 <img width="110" height="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+          
 </div>    
 
 #
