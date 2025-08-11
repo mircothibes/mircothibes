@@ -1,39 +1,48 @@
 ### Hi there 👋
-My name is Marcos Vinicius Thibes Kemer and I am a **Python Developer** passionate about creating efficient, scalable, and user-friendly applications.  
-I develop automation scripts, desktop applications, API integrations, and tools to solve real-world problems.
 
-Please feel free to contact me if you have any questions or would like to collaborate on a project.
+I'm **Marcos Vinicius Thibes Kemer**, a **Python Developer** passionate about creating efficient, scalable, and user-friendly applications.  
+I work on automation scripts, desktop applications, API integrations, and tools that solve real-world problems.
 
-I am always looking for new challenges and opportunities to learn and grow. I am also a team player and always willing to help others.
+💡 My focus is on turning ideas into functional software, always following clean code principles and best development practices.  
+🚀 Constantly learning, building, and improving my skills to deliver high-quality solutions.
 
-Please feel free to contact me if you have any questions or would like to collaborate on a project.
+---
 
-- 👨🏻‍💻 **Python Developer** – Focused on automation, application development, and API integration  
-- 👨‍👩‍👧‍👧 **I love my family**  
-- 🖥️ **Currently focused on improving my skills and building new projects**
+#### 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-FF4500?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🖥️ **Currently focused, working and studying**
-<div style="display: inline">
-<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  
-<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+---
 
-<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+#### 📌 About Me
+- 👨🏻‍💻 **Python Developer** – Automation, Application Development, and API Integration  
+- 🖥 **Currently focused on Python projects and application packaging**  
+- 📈 Passionate about solving problems through technology  
+- 👨‍👩‍👧‍👧 Family comes first  
 
-<img width="110" height="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
-          
-</div>    
+---
 
-#
-
-#### You can also find me at:
+#### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/mvtk1984/">
-  <img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/mircothibes/">
-  <img src="https://camo.githubusercontent.com/7a705494c370a8412797521701153d2873fb39109edf80afc408efd0927ae2d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/mircothibes">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+---
+
+#### ⚡ Fun Fact
+_"Great software comes from a mix of creativity, logic, and coffee."_ ☕
           
 
 
