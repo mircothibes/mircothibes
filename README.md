@@ -42,7 +42,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,linux,git,github,vscode,fastapi,postgresql,sqlite" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mircothibes&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
