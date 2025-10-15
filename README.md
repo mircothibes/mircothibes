@@ -38,11 +38,27 @@
 
 ---
 
-### 📊 GitHub Stats  
+### ⚙️ Backend & Code Insights  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mircothibes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marcos GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mircothibes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,git,github,vscode,fastapi,postgresql,sqlite" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mircothibes&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+#### 🧩 Backend Focus  
+- 🐍 **Python-first mindset** – from automation scripts to API-driven architectures  
+- 🔄 **Dockerized environments** for clean, reproducible deployments  
+- 📦 **CLI & GUI applications** (Tkinter, argparse, rich)  
+- 📡 **REST APIs** integration & backend logic  
+- ☁️ Exploring **Google Cloud** for scalable solutions  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mircothibes&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mircothibes&theme=tokyonight" />
 </p>
 
 ---
