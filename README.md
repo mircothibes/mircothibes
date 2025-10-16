@@ -57,20 +57,49 @@
 
 ### 📊 Top Environments & Languages  
 
+<!-- LARGE ICONS, OFFICIAL COLORS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,powershell,jupyter&theme=dark&perline=10&size=60" />
+  <img src="https://skillicons.dev/icons?i=python,linux,powershell,jupyter&theme=dark&perline=10&size=72" />
 </p>
 
-<p align="center">
-  <img src="https://progress-bar.dev/50/?title=Python&width=320&color=3776AB" />
-  <br/>
-  <img src="https://progress-bar.dev/30/?title=Linux%20(WSL%20%2B%20Neovim)&width=320&color=000000" />
-  <br/>
-  <img src="https://progress-bar.dev/12/?title=PowerShell&width=320&color=5391FE" />
-  <br/>
-  <img src="https://progress-bar.dev/8/?title=Jupyter&width=320&color=F37626" />
-</p>
+<!-- LOCAL BARS (INLINE SVG, FULLY STABLE) -->
+<div align="center">
 
+<!-- Python 45% -->
+<svg width="420" height="28">
+  <rect x="0" y="6" width="420" height="16" rx="8" fill="#2d2f33"/>
+  <rect x="0" y="6" width="189" height="16" rx="8" fill="#3776AB"/>
+  <text x="10" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">Python</text>
+  <text x="380" y="20" fill="#ffde57" font-size="12" font-family="sans-serif">45%</text>
+</svg>
+
+<!-- Linux 35% -->
+<svg width="420" height="28">
+  <rect x="0" y="6" width="420" height="16" rx="8" fill="#2d2f33"/>
+  <rect x="0" y="6" width="147" height="16" rx="8" fill="#000000" stroke="#ffffff" stroke-width="0.8"/>
+  <text x="10" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">Linux (Ubuntu + Neovim)</text>
+  <text x="380" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">35%</text>
+</svg>
+
+<!-- PowerShell 15% -->
+<svg width="420" height="28">
+  <rect x="0" y="6" width="420" height="16" rx="8" fill="#2d2f33"/>
+  <rect x="0" y="6" width="63" height="16" rx="8" fill="#5391FE"/>
+  <text x="10" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">PowerShell</text>
+  <text x="380" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">15%</text>
+</svg>
+
+<!-- Jupyter 5% -->
+<svg width="420" height="28">
+  <rect x="0" y="6" width="420" height="16" rx="8" fill="#2d2f33"/>
+  <rect x="0" y="6" width="21" height="16" rx="8" fill="#F37626"/>
+  <text x="10" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">Jupyter</text>
+  <text x="380" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">5%</text>
+</svg>
+
+</div>
+
+<!-- AUTOMATIC GITHUB CHARTS (REAL LANGUAGE DATA) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mircothibes&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mircothibes&theme=tokyonight" />
