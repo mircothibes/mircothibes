@@ -57,53 +57,22 @@
 
 ### 📊 Top Environments & Languages  
 
-<!-- LARGE ICONS, OFFICIAL COLORS -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,powershell,jupyter&theme=dark&perline=10&size=72" />
 </p>
 
-<!-- LOCAL BARS (INLINE SVG, FULLY STABLE) -->
-<div align="center">
+<h4 align="center">
+  🐍 <strong><span style="color:#3776AB;">Python</span></strong> <em>(Backend, Automation, APIs)</em> — <strong><span style="color:#FFD43B;">45%</span></strong>  
+  <br>🐧 <strong><span style="color:#000000;">Linux (Ubuntu + Neovim)</span></strong> <em>(Development Environment)</em> — <strong><span style="color:#FFFFFF;">35%</span></strong>  
+  <br>⚙️ <strong><span style="color:#5391FE;">PowerShell</span></strong> <em>(System Scripting & Tools)</em> — <strong><span style="color:#FFFFFF;">15%</span></strong>  
+  <br>📘 <strong><span style="color:#F37626;">Jupyter</span></strong> <em>(Data & Prototyping)</em> — <strong><span style="color:#FFFFFF;">5%</span></strong>  
+</h4>
 
-<!-- Python 45% -->
-<svg width="420" height="28">
-  <rect x="0" y="6" width="420" height="16" rx="8" fill="#2d2f33"/>
-  <rect x="0" y="6" width="189" height="16" rx="8" fill="#3776AB"/>
-  <text x="10" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">Python</text>
-  <text x="380" y="20" fill="#ffde57" font-size="12" font-family="sans-serif">45%</text>
-</svg>
-
-<!-- Linux 35% -->
-<svg width="420" height="28">
-  <rect x="0" y="6" width="420" height="16" rx="8" fill="#2d2f33"/>
-  <rect x="0" y="6" width="147" height="16" rx="8" fill="#000000" stroke="#ffffff" stroke-width="0.8"/>
-  <text x="10" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">Linux (Ubuntu + Neovim)</text>
-  <text x="380" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">35%</text>
-</svg>
-
-<!-- PowerShell 15% -->
-<svg width="420" height="28">
-  <rect x="0" y="6" width="420" height="16" rx="8" fill="#2d2f33"/>
-  <rect x="0" y="6" width="63" height="16" rx="8" fill="#5391FE"/>
-  <text x="10" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">PowerShell</text>
-  <text x="380" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">15%</text>
-</svg>
-
-<!-- Jupyter 5% -->
-<svg width="420" height="28">
-  <rect x="0" y="6" width="420" height="16" rx="8" fill="#2d2f33"/>
-  <rect x="0" y="6" width="21" height="16" rx="8" fill="#F37626"/>
-  <text x="10" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">Jupyter</text>
-  <text x="380" y="20" fill="#ffffff" font-size="12" font-family="sans-serif">5%</text>
-</svg>
-
-</div>
-
-<!-- AUTOMATIC GITHUB CHARTS (REAL LANGUAGE DATA) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mircothibes&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mircothibes&theme=tokyonight" />
 </p>
+
 
 ---
 
