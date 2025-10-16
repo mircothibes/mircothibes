@@ -55,6 +55,15 @@
 
 ---
 
+### 📊 Top Environments & Languages  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux%20(Ubuntu%20%2B%20Neovim)-40%25-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-15%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-10%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mircothibes&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mircothibes&theme=tokyonight" />
