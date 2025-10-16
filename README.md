@@ -58,10 +58,17 @@
 ### 📊 Top Environments & Languages  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=for-the-badge&logo=python&logoColor=ffde57" />
-  <img src="https://img.shields.io/badge/Linux%20(Ubuntu%20%2B%20Neovim)-35%25-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-15%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-5%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,linux,powershell,jupyter&theme=dark&perline=10&size=60" />
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/50/?title=Python&width=320&color=3776AB" />
+  <br/>
+  <img src="https://progress-bar.dev/30/?title=Linux%20(WSL%20%2B%20Neovim)&width=320&color=000000" />
+  <br/>
+  <img src="https://progress-bar.dev/12/?title=PowerShell&width=320&color=5391FE" />
+  <br/>
+  <img src="https://progress-bar.dev/8/?title=Jupyter&width=320&color=F37626" />
 </p>
 
 <p align="center">
