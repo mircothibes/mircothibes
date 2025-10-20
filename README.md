@@ -97,7 +97,8 @@
 
 ---
 
-
+### ⚡ Fun Fact  
+> “Great software comes from a mix of creativity, logic, and coffee.” ☕  
 
 
 
