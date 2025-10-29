@@ -16,7 +16,7 @@
 - 👨🏻‍💻 Python Developer focused on **automation, backend & desktop applications**  
 - 🧩 I love turning ideas into **functional software that solves real-world problems**  
 - 🐧 Working daily with **Linux Ubuntu + Neovim** for development  
-- 🚀 Always exploring **Docker**, **APIs**, and **cloud environments (Google Cloud)**  
+- 🚀 Always exploring **Linux**, **Docker**, **APIs**, and **cloud environments (Google Cloud)**  
 - 👨‍👩‍👧‍👧 Family comes first — everything I build is inspired by them 💙  
 
 ---
