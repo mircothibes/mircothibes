@@ -69,19 +69,14 @@ Python Developer passionate about automation, backend, and Linux systems.
 ```
 - 💰 personal-finance-tracker
  – Personal finance tracker app with GUI and database integration
- 
 - ⚡ fast-crud
  – FastAPI + PostgreSQL CRUD microservice with Docker Compose
- 
 - 🧰 sysinfo-cli
  – System info tool built in Python CLI with Docker
-
 - 📄 pdf-to-docx
  – Batch PDF to DOCX converter with GUI (Tkinter + PyInstaller)
-
 - 📂 file-organizer
  – Automates file sorting and folder organization
-
 - 📊 xml-to-excel
  – XML parser that exports structured Excel reports
 
