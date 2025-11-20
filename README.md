@@ -6,10 +6,9 @@
 
 ---
 
-<pre style="background-color:#0d1117; padding:8px 12px; border-radius:8px;">
-<span style="color:#33ff33;">mirco@Mirco</span>:<span style="color:#00ffff;">~</span>$ <span style="color:#ffffff;">cat about_me.txt</span>
-</pre>
-
+<pre style="background-color:#0d1117; color:#c9d1d9; padding:12px; border-radius:8px;">
+<span style="color:#33ff33;">mirco@Mirco</span>:<span style="color:#00ffff;">~</span>$ <span style="color:#ffffff;">whoami</span>
+marcos_vinicius_thibes_kemer
 ───────────────────────────────────────────────
 Python Developer passionate about automation, backend, and Linux systems.
 </pre>
