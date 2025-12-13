@@ -16,7 +16,7 @@
 
 ---
 
-###🐧 Linux-First Developer Mindset
+### 🐧 Linux-First Developer Mindset
 ```text
 mirco@linux:~$ cat linux_philosophy.md
 - Terminal-driven workflow (bash, cli tooling, automation)
