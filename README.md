@@ -31,3 +31,8 @@ Why Linux matters in my work
 - 🐳 I ship environments, not “it works on my machine”: containers + configuration + docs             
 
 ---
+
+🧰 Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,fastapi,postgres,sqlite,git,github,neovim&theme=dark&perline=10&size=48" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Linux%20Daily-Ubuntu%20%2B%20Neovim-111111?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Python%20%2B%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Database-PostgreSQL%20%2B%20SQLite-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p>
+
+---
