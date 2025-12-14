@@ -76,7 +76,19 @@ Inspired by the Unix philosophy and real-world constraints.
 ---
 
 ### 📫 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/mvtk1984/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/mircothibes"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.instagram.com/mircothibes/"> <img src="https://img.shields.io/badge/Instagram-Behind%20the%20scenes-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mvtk1984/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mircothibes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mircothibes/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="42" />
+  </a>
+</p>
 
 ---
 
