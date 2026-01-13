@@ -21,7 +21,7 @@
 
 ---
 
-🐧 Linux-First Philosophy
+###🐧 Linux-First Philosophy
 ```text
 mirco@linux:~$ cat /etc/philosophy
 ```
@@ -30,7 +30,7 @@ mirco@linux:~$ cat /etc/philosophy
 - Automation > manual work
 - Reproducibility > local hacks
 - Terminal-first workflow
-*I don’t just write code.*
-*I design systems that behave well under pressure.*
+* I don’t just write code. *
+* I design systems that behave well under pressure. *
 
 ---
