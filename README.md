@@ -20,3 +20,17 @@
 <p align="center"> <i>Backend development with a Linux mindset — predictable, scriptable, observable.</i> </p>
 
 ---
+
+##🐧 Linux-First Philosophy
+```text
+mirco@linux:~$ cat /etc/philosophy
+```
+- Linux is my daily workspace, not just a runtime
+- I think in processes, logs, permissions and services
+- Automation > manual work
+- Reproducibility > local hacks
+- Terminal-first workflow
+I don’t just write code.
+I design systems that behave well under pressure.
+
+---
