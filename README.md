@@ -3,7 +3,7 @@
 
 ---
 
-```text
+```bash
 ╭──────────────────────────────────────────────────────────────────────────╮
 │ SYSTEM INFORMATION                                                       │
 ├──────────────────────────────────────────────────────────────────────────┤
@@ -23,7 +23,7 @@
 
 ##🐧 Linux-First Philosophy
 
-```text
+```bash
 mirco@linux:~$ cat /etc/philosophy
 ```
 - Linux is my daily workspace, not just a runtime
@@ -39,7 +39,7 @@ I design systems that behave well under pressure.
 
 ##⚙️ Backend Engineering Focus
 
-```text
+```bash
 mirco@linux:~$ backend --capabilities
 ```
 - REST APIs and backend service design
@@ -52,8 +52,8 @@ I care not only if the code works,
 but how it runs, how it fails, and how it is debugged.
 ```
 
-🧠 How I Build Software
-```text
+##🧠 How I Build Software
+```bash
 mirco@linux:~$ man development_style
 ```
 - Clarity over cleverness
@@ -83,7 +83,7 @@ mirco@linux:~$ uptime
 
 --- 
 
-```text
+```bash
 mirco@linux:~$ echo "final_note"
 Build software that is calm, predictable and observable. ☕
 ```
