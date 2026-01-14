@@ -83,6 +83,9 @@ mirco@linux:~$ uptime
 
 --- 
 
-
+```bash
+mirco@linux:~$ echo "final_note"
+Build software that is calm, predictable and observable. ☕
+```
 
 
