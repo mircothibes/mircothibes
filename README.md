@@ -4,7 +4,7 @@
 ---
 
 ```bash
-        a8888b.         mirco@github
+        a8888b.         mircothibes@github
        d888888b.        ──────────────────────────────────
        8P"YP"Y88        OS         Linux (Ubuntu / WSL)
        8|o||o|88        Host       github.com/mircothibes
