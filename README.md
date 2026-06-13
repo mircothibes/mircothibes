@@ -15,8 +15,8 @@
    d8:'   "   `::88b.   Runtime    Docker + Compose
   d8"           `Y88b   DB         PostgreSQL · SQLite
  :8P     '       :888   Stack      Python · FastAPI · Redis
-  8a.    :      _a88P   Locale     fr_LU · en_GB · pt_BR
-._/"Yaa_ :    .| 88P|   Uptime     #PythonJourney · day 142+
+  8a.    :      _a88P   Languages  fr_LU · en_GB · pt_BR
+._/"Yaa_ :    .| 88P|   Location   Luxembourg
 \    YP"      `| 8P  `.
 /     \._____.d|    .'
 `--..__)888888P`._.'
